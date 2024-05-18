@@ -1,0 +1,294 @@
+/* INDEX CSS */
+
+.purple {
+    color: purple;
+}
+
+#click {
+    border: dashed;
+    width: 140px;
+}
+
+/* STEP 1 CSS */
+
+.blue {
+    color: blue;
+}
+
+#btblue1 {
+    color: blue;
+    border-radius: 20px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(23, 228, 108);
+    border-color: rgb(10, 165, 35);
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#btblue2 {
+    color: blue;
+    border-radius: 20px;
+    padding: 10px;
+    width: 220px;
+    margin: 4px;
+    border-color: #f1f1f1;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#btblue3 {
+    color: blue;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 3px;
+    width: 170px;
+    border-color: #f1f1f1;
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#fieldset {
+    padding: 10px;
+    width: 500px;
+    margin-left: 410px;
+}
+
+#email {
+    padding: 8px;
+    height: 5px;
+    width: 310px;
+    border-radius: 10px;
+}
+
+#password {
+    padding: 8px;
+    height: 5px;
+    width: 310px;
+    border-radius: 10px;
+}
+
+#confirm {
+    padding: 8px;
+    height: 5px;
+    width: 310px;
+    border-radius: 10px;
+}
+
+#back1 {
+    text-decoration: none;
+    padding: 6px;
+    width: 75px;
+    background-color: #f1f1f1;
+    border-color: #f1f1f1;
+    border-radius: 20px;
+}
+
+#back2 {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#next1 {
+    text-decoration: none;
+    padding: 6px;
+    width: 75px;
+    background-color: blue;
+    border-color: blue;
+    border-radius: 20px;
+}
+
+#next2 {
+    text-decoration: none;
+    color: #f1f1f1;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* STEP 2 CSS */
+
+.blue {
+    color: blue;
+}
+
+#bt1 {
+    border-radius: 20px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(23, 228, 108);
+    border-color: rgb(10, 165, 35);
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#bt2 {
+    border-radius: 20px;
+    padding: 10px;
+    width: 220px;
+    margin: 4px;
+    background-color: rgb(154, 113, 221);
+    border-color: rgb(154, 113, 221);
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#bt3 {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 3px;
+    width: 170px;
+    border-color: #f1f1f1;
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#fieldset {
+    padding: 10px;
+    width: 500px;
+    margin-left: 410px;
+}
+
+#name {
+    border-radius: 10px;
+    padding: 8px;
+    height: 5px;
+    width: 310px;
+}
+
+#lastname {
+    border-radius: 10px;
+    padding: 8px;
+    height: 5px;
+    width: 310px;
+}
+
+#cnic1,
+#cnic2,
+#cnic3,
+#cnic4,
+#cnic5,
+#cnic6,
+#cnic7,
+#cnic8,
+#cnic9,
+#cnic10,
+#cnic11,
+#cnic12 {
+    padding: 2px;
+    width: 10px;
+}
+
+#link {
+    border-radius: 10px;
+    padding: 8px;
+    height: 5px;
+    width: 180px;
+}
+
+#back1 {
+    text-decoration: none;
+    padding: 6px;
+    width: 75px;
+    background-color: #f1f1f1;
+    border-color: #f1f1f1;
+    border-radius: 20px;
+}
+
+#back2 {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#next1 {
+    text-decoration: none;
+    padding: 6px;
+    width: 75px;
+    background-color: blue;
+    border-color: blue;
+    border-radius: 20px;
+}
+
+#next2 {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* STEP 3 CSS */
+
+.blue {
+    color: blue;
+}
+
+#btn1 {
+    border-radius: 20px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(23, 228, 108);
+    border-color: rgb(10, 165, 35);
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#btn2 {
+    border-radius: 20px;
+    padding: 10px;
+    width: 220px;
+    margin: 4px;
+    background-color: rgb(23, 228, 108);
+    border-color: rgb(10, 165, 35);
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#btn3 {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 3px;
+    width: 170px;
+    background-color: rgb(154, 113, 221);
+    border-color: rgb(154, 113, 221);
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#fieldset {
+    padding: 10px;
+    width: 500px;
+    margin-left: 410px;
+}
+
+.area {
+    border-radius: 10px;
+}
+
+#back1 {
+    text-decoration: none;
+    padding: 6px;
+    width: 75px;
+    color: #f1f1f1;
+    border-color: #f1f1f1;
+    border-radius: 20px;
+}
+#back2{
+    text-decoration: none;  
+    color: black;   
+    font-size: 17px; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#submit{
+    text-decoration: none; 
+    padding: 6px; 
+    width: 75px; 
+    background-color: rgb(10, 165, 35); 
+    border-color: rgb(10, 165, 35); 
+    color: #f1f1f1; 
+    font-size: 17px; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    border-radius: 20px;
+}
